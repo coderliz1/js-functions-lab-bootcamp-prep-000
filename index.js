@@ -3,6 +3,6 @@ function happyHolidays() {
   return "Happy holidays!";
 }
 
-function happyHolidaysTo(name) {
+function happyHolidaysTo(Leandra) {
   return "Happy holidays, ${name}!";
 }
